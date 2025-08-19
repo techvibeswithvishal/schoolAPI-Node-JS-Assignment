@@ -48,15 +48,17 @@ postman
 POST -http://localhost:3000/api/schools/addSchool
 GET  -http://localhost:3000/api/schools/listSchools?lat=28.6139&lng=77.2090
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+======>
 
 
-![Uploading Screenshot (163).png…]()
+<img width="1366" height="768" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/a9b9cd00-3829-429a-951f-2ab0a41518fe" />
 
 
 
 
 
-![Uploading Screenshot (164).png…]()
 
+<img width="1366" height="768" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/07d90510-3cc0-4297-aa5f-b64b4ddcde48" />
 
 

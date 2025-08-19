@@ -42,6 +42,8 @@ Share the collection with stakeholders for testing purposes.
 -npm install
 #server run
 -npm run dev
+🚀 Server running at http://localhost:3000
+✅ Connected to MySQL as ID ....
 
 
 postman

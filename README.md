@@ -50,11 +50,13 @@ GET  -http://localhost:3000/api/schools/listSchools?lat=28.6139&lng=77.2090
 
 
 
+![Uploading Screenshot (163).png…]()
 
 
 
 
 
+![Uploading Screenshot (164).png…]()
 
 
 
